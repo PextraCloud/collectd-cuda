@@ -1,3 +1,7 @@
+> **DEPRECATION NOTICE**: This script in this repository has been moved [here](https://github.com/PextraCloud/collectd-plugins/blob/master/plugins/nvidia-cuda.sh), released under a more permissive license.
+
+---
+
 # collectd-cuda
 
 This is a simple script that can be run with [collectd's](https://www.collectd.org/) `exec` plugin to monitor NVIDIA GPUs. It relies on `nvidia-smi` to gather the data.
